@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **This repository has moved.** It now lives in the
+> [`engels74-bot/gjc-fleet`](https://github.com/engels74-bot/gjc-fleet) monorepo as its `relay/`
+> subdirectory (full git history preserved via merge). This repo is archived and frozen.
+
 # gjc-relay
 
 Loopback reverse proxy between [clawhip](https://github.com/Yeachan-Heo/clawhip) and the
